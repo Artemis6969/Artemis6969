@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artemis6969
-- 👀 I've worked at a few discord bots like Dank Helper (7K servers)
+- 👀 I've worked at a few discord bots like Dank Helper (7K servers) Scuffed Guard (200 servers)
 - 🎮 I play video games in my free time
 - 🌱 I’m currently learning Python, Web Developnent and Java
 
